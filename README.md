@@ -1,16 +1,15 @@
 👋 Hi, I’m @Djack1010
 
-I am a **research fellow** at the Institute of Informatics and Telematics (IIT) of the National Research Council (CNR) in Pisa, and also a **PhD student** at the Computer Science Department of the University of Pisa.
-
-My field of research is the **Cybersecurity**, and my research interests include Software Testing, Malware Analysis, Formal Methods and Machine Learning applied to cybersecurity problems, and Explainable AI.
-Alongside with the research, I work as a **Full-stack developer** and Work Package Leader on some European projects on which my research group is involved.
-
-I love coding and working on something useful for the community, such as doing research to protect people's data or developing software that has a positive impact on people's life. 
+I am a **Back-end developer** and a **Research Fellow** with a Ph.D. in Computer Science, specializing in Cybersecurity and Deep Learning. My research interests include Malware Analysis, Formal Methods, Deep Learning, and Explainable AI.
+In addition to my research outcome, I work as a **Back-end developer** (mainly Python, Java and Elixir) with companies and international research projects.
+Currently, I supervise research projects at the Institute of Informatics and Telematics (IIT) of the National Research Council of Italy (CNR) while also serving as an Elixir Back-end developer at Turn.io. 
+I am passionate about coding and am committed to working on projects that benefit the community, whether it involves safeguarding people's data and devices through research or creating software that enhances the quality of people's lives. 
 
 📫 How to reach me:
- - work email giacomo.iadarola(at)iit.cnr.it
- - personal email gia.iadarola(at)gmail.com
- - CV/Portfolio https://giacomo-iadarola.duckdns.org/
+ - work email (research projects) -> giacomo.iadarola(at)iit.cnr.it
+ - work email -> giacomo(at)turn.io
+ - personal email -> gia.iadarola(at)gmail.com
+ - CV/Portfolio -> https://giacomo-iadarola.duckdns.org/
 
 <!---
 Djack1010/Djack1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
