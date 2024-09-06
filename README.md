@@ -6,9 +6,8 @@ Currently, I supervise research projects at the Institute of Informatics and Tel
 I am passionate about coding and am committed to working on projects that benefit the community, whether it involves safeguarding people's data and devices through research or creating software that enhances the quality of people's lives. 
 
 📫 How to reach me:
- - work email (research projects) -> giacomo.iadarola(at)iit.cnr.it
+ - personal email (research projects) -> gia.iadarola(at)gmail.com
  - work email -> giacomo(at)turn.io
- - personal email -> gia.iadarola(at)gmail.com
  - CV/Portfolio -> https://giacomo-iadarola.duckdns.org/
 
 <!---
