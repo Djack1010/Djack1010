@@ -1,9 +1,11 @@
 👋 Hi, I’m @Djack1010
 
-I am a **Back-end developer** and a **Research Fellow** with a Ph.D. in Computer Science, specializing in Cybersecurity and Deep Learning. My research interests include Malware Analysis, Formal Methods, Deep Learning, and Explainable AI.
-In addition to my research outcome, I work as a **Back-end developer** (mainly Python, Java and Elixir) with companies and international research projects.
-Currently, I supervise research projects at the Institute of Informatics and Telematics (IIT) of the National Research Council of Italy (CNR) while also serving as an Elixir Back-end developer at Turn.io. 
-I am passionate about coding and am committed to working on projects that benefit the community, whether it involves safeguarding people's data and devices through research or creating software that enhances the quality of people's lives. 
+I am a **Back-end Developer** with a Ph.D. in Computer Science, specializing in Cybersecurity and Deep Learning.
+Proficient in Python, Java, and Elixir, I contribute to projects through scalable and maintainable backend solutions.
+My background includes work in **Malware Analysis**, Formal Methods, and **Explainable AI** within Deep Learning.
+Currently, I work as an **Elixir Back-end Developer** at Turn.io, where I develop a chat-based platform and no-code programming tools using Elixir and Phoenix LiveView that is used by hundreds of companies and has positive impact on millions of people.
+
+Passionate about coding, I am committed to projects that benefit the community, whether it involves safeguarding data through research or creating software to enhance people's lives.
 
 📫 How to reach me:
  - personal email (research projects) -> gia.iadarola(at)gmail.com
